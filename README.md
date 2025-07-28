@@ -55,3 +55,8 @@ Property_Area
 Approves or denies a hypothetical loan application based on inputs
 
 Displays prediction with success message
+
+## 🌐 Live App
+
+You can try the deployed Streamlit app here:  
+🔗 [Loan Eligibility Predictor](https://loaneligibilitypredictor-russel.streamlit.app/)
